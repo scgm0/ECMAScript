@@ -3,7 +3,7 @@
 	"exclude": [".import"],
 	"compilerOptions": {
 		"rootDir": ".",
-		"target": "ESNext",
+		"target": "ES2021",
 		"module": "ESNext",
 		"lib": ["ESNext"],
 		"experimentalDecorators": true,
